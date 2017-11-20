@@ -1,2 +1,4 @@
 # DufanRepository
-repostitory for home
+Repositář na doma
+
+Vyzkoušej si tu nějaké fígly.
